@@ -1,0 +1,13 @@
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\bin\Debug\cafeManagementStudtio.exe.config
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\bin\Debug\cafeManagementStudtio.exe
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\bin\Debug\cafeManagementStudtio.pdb
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.csprojResolveAssemblyReference.cache
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.Form1.resources
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.Properties.Resources.resources
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.csproj.GenerateResource.Cache
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.exe
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.pdb
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.GuestOrder.resources
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.itemsForm.resources
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.UserOrder.resources
+E:\UNIVERSITY\Db-connection\cafeManagementStudtio\cafeManagementStudtio\obj\Debug\cafeManagementStudtio.UsersForm.resources
